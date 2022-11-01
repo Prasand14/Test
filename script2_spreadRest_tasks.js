@@ -10,7 +10,7 @@ function oddNumbers(numberList) {
   }
 }
 
-// oddNumbers(numbers)
+// oddNumbers  (numbers)
 
 // 2
 // b) Convert all the strings to title caps in a string array
